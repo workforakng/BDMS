@@ -1,4 +1,7 @@
+
 # Blood-Bank-&-Donation-Management-System
+
+Author: Akshar
 
 Blood Bank Donation System is a php based web project with both admin and user layouts.
 
@@ -8,12 +11,12 @@ Blood Bank Donation System is a php based web project with both admin and user l
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/varunsardana004/Blood-Bank-And-Donation-Management-System.git).
+3. Download project from github(https://github.com/workforakng/BDMS).
 
    OR follow gitbash commands <br>
      ```t
          i>cd C:\\xampp\htdocs\
-        ii>git clone https://github.com/varunsardana004/Blood-Bank-And-Donation-Management-System.git
+      ii>git clone https://github.com/workforakng/BDMS.git
      
      
 4. Extract files in C:\xampp\htdocs.
